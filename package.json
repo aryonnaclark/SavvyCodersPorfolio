@@ -1,0 +1,23 @@
+{
+  "name": "Aryonnaclark",
+  "version": "1.0.0",
+  "description": "hello world! # This is Aryonna Clark ## I'm a Second generation college student at SWIC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryonnaclark/SavvyCodersPorfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryonnaclark/SavvyCodersPorfolio/issues"
+  },
+  "homepage": "https://github.com/aryonnaclark/SavvyCodersPorfolio#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  }
+}
